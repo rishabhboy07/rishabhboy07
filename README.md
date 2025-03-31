@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabhboy07
-- 👀 I’m interested in digital markating, vidieo editing, coding
+- 👀 I’m interested in digital markating, video editing, coding
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me DM me on insta @rishabhboy07
